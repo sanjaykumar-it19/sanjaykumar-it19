@@ -11,7 +11,7 @@
 - 👯 Flexible to learn **Emerging Technologies**
 
 - 💬 Test my knowledge at **Java**
-- </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons.flaticon.com/png/128/3273/premium/3273631.png?token=exp=1645982065~hmac=ad9fa86bb462b31355ee4cb6ab12e6e1" alt="AI" width="20" height="20"/> </a> Invision of making machines to compete **Human intelligence**
+- </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons.flaticon.com/png/128/901/premium/901002.png?token=exp=1649845101~hmac=e3cf0f5177a73e4d0cb21d2828591cda" alt="AI" width="20" height="20"/> </a> Invision of making machines to compete **Human intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

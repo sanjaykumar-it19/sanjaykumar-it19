@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR S</h1>
-<h3 align="center">Front-End Developer | Python Developer</h3>
+<h3 align="center">Front-End Developer | Java Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madhusudhanan-it19&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudhanan-it19" /> </p>
 
@@ -11,7 +11,7 @@
 - 👯 Flexible to learn **Emerging Technologies**
 
 - 💬 Test my knowledge at **Java**
-- </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons.flaticon.com/png/128/901/premium/901002.png?token=exp=1649845101~hmac=e3cf0f5177a73e4d0cb21d2828591cda" alt="AI" width="20" height="20"/> </a> Invision of making machines to compete **Human intelligence**
+- </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/2591/2591949.png" alt="AI" width="20" height="20"/> </a> Invision of making machines to compete **Human intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

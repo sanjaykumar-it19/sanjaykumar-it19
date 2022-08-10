@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SANJAY KUMAR S</h1>
-<h3 align="center">Front-End Developer | Java Developer</h3>
+<h3 align="center">Back-End Developer | Java Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=madhusudhanan-it19&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudhanan-it19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=madhusudhanan-it19&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar-it19" /> </p>
 
 
 - 🔭 I’m currently working on **Artificial Intelligence Projects**

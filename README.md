@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madhusudhanan-it19&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar-it19" /> </p>
 
 
-- 🔭 I’m currently working on **Artificial Intelligence Projects**
+- 🔭 I’m currently working on **Java Backend Projects**
 
 - 🌱 I’m currently learning **Web development and Java**
 
